@@ -6,4 +6,3 @@ module.exports = {
     api_secret: 'QyM1H0BIzNXJhGMtK8JA_pb0X80',
   },
 }
-
