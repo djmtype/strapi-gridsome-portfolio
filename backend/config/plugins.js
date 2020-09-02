@@ -1,8 +1,9 @@
-module.exports = ({ env }) => ({
-    provider: 'cloudinary',
-    providerOptions: {
-      cloud_name: env('CLOUDINARY_NAME'),
-      api_key: env('CLOUDINARY_KEY'),
-      api_secret: env('CLOUDINARY_SECRET'),
-    },
-});
+module.exports = {
+  provider: 'cloudinary',
+  providerOptions: {
+    cloud_name: 'mtype-media',
+    api_key: '364748361939745',
+    api_secret: 'QyM1H0BIzNXJhGMtK8JA_pb0X80',
+  },
+}
+
